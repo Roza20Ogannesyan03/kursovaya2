@@ -1,0 +1,13 @@
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\bin\Debug\ProjectSeaBattle.exe.config
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\bin\Debug\ProjectSeaBattle.exe
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\bin\Debug\ProjectSeaBattle.pdb
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.FormField.resources
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.FormMain.resources
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.Level.resources
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.Properties.Resources.resources
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.csproj.GenerateResource.cache
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.csproj.CoreCompileInputs.cache
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.exe
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.pdb
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.csproj.AssemblyReference.cache
+D:\ProjectSeaBattle-master-2\ProjectSeaBattle\obj\Debug\ProjectSeaBattle.Instruction.resources
